@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham rawat</h1>
-<h3 align="center">A passionate Java BackEnd developer from India</h3>
+<h3 align="center">Java Back-end Developer with a good knowledge of Back-end development and Problem-Solving skills. Also, have great knowledge in Java, javaScript and Databases like MySQL, Looking forward to becoming a Back-end developer, alongside learning and growing with the Organization.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawatshubham1645&label=Profile%20views&color=0e75b6&style=flat" alt="rawatshubham1645" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/FPbnShq1h1IS5FQyPD/200w.webp?cid=ecf05e475yamq2e6ffo5pvtg0u0h8n5d805u1r296mckmnlp&rid=200w.webp&ct=g">
