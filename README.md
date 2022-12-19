@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/FPbnShq1h1IS5FQyPD/200w.webp?cid=ecf05e475yamq2e6ffo5pvtg0u0h8n5d805u1r296mckmnlp&rid=200w.webp&ct=g">
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 📄 Know about my experiences by my Portfolio [https://rawatshubham1645.github.io/](https://rawatshubham1645.github.io/)
+- 📄 Know about my experiences by my Resume [https://drive.google.com/file/d/1CWhTv4WHpR6VR-kqLLb82cjrjmhL1u_w/view?usp=share_link](https://drive.google.com/file/d/1CWhTv4WHpR6VR-kqLLb82cjrjmhL1u_w/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
